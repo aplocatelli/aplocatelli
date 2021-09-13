@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Ana
-- 👀 I’m interested in Frontend and Full Stack Development
-- 🌱 I’m currently learning React
+- 👩‍💻 Computer Science graduate
+- 🖥️ Frontend developer since 2011, former Java developer
+- 👀 Interested in Frontend and Full Stack Development
+- 🌱 Currently learning React
 - 📫 How to reach me: aplocatelli@gmail.com
 
 <!---
