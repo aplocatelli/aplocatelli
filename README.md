@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aplocatelli
 - 👀 I’m interested in Frontend and Full Stack Development
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning React
 - 📫 How to reach me: aplocatelli@gmail.com
 
 <!---
