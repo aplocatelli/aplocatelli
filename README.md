@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ana
-- 👩‍💻 Computer Science graduate
+- 👩‍💻 Computer science graduate (2008)
 - 🖥️ Frontend developer since 2011, former Java developer
 - 👀 Interested in Frontend and Full Stack Development
 - 🌱 Currently learning React
