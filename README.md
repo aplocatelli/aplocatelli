@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aplocatelli
+- 👋 Hi, I’m Ana
 - 👀 I’m interested in Frontend and Full Stack Development
 - 🌱 I’m currently learning React
 - 📫 How to reach me: aplocatelli@gmail.com
