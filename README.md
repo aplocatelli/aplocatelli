@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ana
 - 👩‍💻 Computer Science graduate (2008)
-- 🖥️ Full Stack Developer since 2011, former Java developer
+- 🖥️ Full Stack Developer since 2011, former Java Developer
 - 👀 Interested in Frontend and Full Stack Development
 - 🌱 Currently using React, Angular, TypeScript, Node
 - 📫 How to reach me: aplocatelli@gmail.com
