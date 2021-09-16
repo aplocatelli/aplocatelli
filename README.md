@@ -2,7 +2,7 @@
 - 👩‍💻 Computer science graduate (2008)
 - 🖥️ Frontend developer since 2011, former Java developer
 - 👀 Interested in Frontend and Full Stack Development
-- 🌱 Currently learning React, Angular, Typescript, Node
+- 🌱 Currently using React, Angular, TypeScript, Node
 - 📫 How to reach me: aplocatelli@gmail.com
 
 <!---
