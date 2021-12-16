@@ -1,9 +1,9 @@
-- 👋 Hi, I’m Ana!
+- 👋 Hi, I’m Ana! I am a Software Engineer
 - 👩‍💻 Bachelor of Computer Science (2008)
 - 🖥️ Full Stack Developer since 2011
 - 💾 Former Backend (Java) Developer (2006 - 2010)
-- 👀 Interested in Frontend and Full Stack Development
-- 🌱 Currently interested in everything JS (React, Angular, Vue, TypeScript, Node)
+- 👀 Interested in Frontend and Full Stack
+- 🌱 Currently looking into everything JS (React, Angular, Vue, TypeScript, Node) and also some C#
 - 📫 How to reach me: aplocatelli@gmail.com
 
 <!---
