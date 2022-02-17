@@ -3,7 +3,7 @@
 - 🖥️ Full Stack Developer since 2011
 - 💾 Former Backend (Java) Developer (2006 - 2010)
 - 👀 Interested in Frontend and Full Stack
-- 🌱 Currently looking into everything JS (React, Angular, Vue, TypeScript, Node)
+- 🌱 Currently working with everything JS (React, Angular, Vue, TypeScript, Node)
 - 📫 How to reach me: aplocatelli@gmail.com
 
 <!---
